@@ -3,8 +3,8 @@ Identify the Disease Outbreak in Headlines. Headlines consist of cities/country'
 # Identification of disease outbreaks consists of the following steps:
 * City and Country name extraction
 * Geographical Coordinates extraction
-* Clustering and visualization of outbreaks in US and World
-![US disease](https://github.com/Ramshashahid73/Discovering-Diseases-Outbreak/assets/150230209/061d994a-a5c9-4505-9dbe-02ab94b0c144)
-![world disease](https://github.com/Ramshashahid73/Discovering-Diseases-Outbreak/assets/150230209/a49861d8-db52-49c1-92e3-04f35e9daffd)
+* Clustering and visualization of outbreaks in US and World![US disease](https://github.com/highplainscomputing/Discovering-Diseases-Outbreak/assets/150230209/a0f40e8a-e149-44cb-a2b0-faf1e9ff93ec)
+![world disease](https://github.com/highplainscomputing/Discovering-Diseases-Outbreak/assets/150230209/65cdfa43-5c2d-4d8c-9a04-9f2a29bb28e4)
+
 
 
